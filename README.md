@@ -12,7 +12,7 @@
 - restruct_status: Статус реструктуризации
 - auto_approval: Был ли займ одобрен автоматически
 - borrower_issue_class: Класс заемщика на момент взятия займа
-## Ссылка на проект с интерактивными графиками: :arrow_heading_down: <a href = "https://nbviewer.org/gist/DullSystem/ec2e00142efb8c0b444be41494d6b517">crowdlending project online
+## Ссылка на проект с интерактивными графиками: :arrow_heading_down: <a href = "https://nbviewer.org/gist/DullSystem/ec2e00142efb8c0b444be41494d6b517">краудлендинговая платформа проект онлайн
 Исследовательский анализ краудлендинговой-платформы.
 ### Выполнена предобработка данных.
 ### Произведён поиск и выявление зависимостей между различными группами:
